@@ -49,7 +49,7 @@ git push -u origin master
 - Click **Settings** > **Pages**
 - Under **Source**, choose the `main` or `master` branch
 - Click **Save**
-- Your site will be live at `https://yourusername.github.io/netfliz-clone/`
+- Your site will be live at `[https://yourusername.github.io/netfliz-clone/](https://saikumarseepana01.github.io/Netflix_Clone/)`
 
 ## 🧪 Live Demo
 
@@ -63,7 +63,7 @@ git push -u origin master
 
 ## 👩‍💻 Author
 
-Made with ❤️ by [Your Name]
+Made with ❤️ by [Sai Kumar Seepana]
 
 ## 📜 License
 
